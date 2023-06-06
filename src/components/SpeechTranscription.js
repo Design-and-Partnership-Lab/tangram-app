@@ -192,6 +192,7 @@ export default function SpeechTranscription() {
                       speechState={speechState}
                       startListening={startListening}
                       stopListening={stopListening}
+                      isFirst={isFirst}
                     />
                   </label>
                   {/* {isFirst && (

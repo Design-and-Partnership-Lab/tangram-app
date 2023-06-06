@@ -38,7 +38,7 @@ Submit the existing transcript to see the generated response from ChatGPT.
 
 This was made as a next.js app with integration of the ChatGPT API. We used Tailwind and DaisyUI to style the app. We also used lottie animations and framer motion.
 
-Thanks to Samhir Tarif for the react voice recorder hook [react-audio-voice-recorder](https://github.com/samhirtarif/react-audio-recorder). Thanks to Sarghm for the [voice record animation tutorial](https://codesandbox.io/s/agitated-shockley-cdzuy?from-embed=&file=/src/App.tsx).
+Thanks to Samhir Tarif for the react voice recorder hook [react-audio-voice-recorder](https://github.com/samhirtarif/react-audio-recorder). Thanks to Sarghm for the [voice record animation tutorial](https://codesandbox.io/s/agitated-shockley-cdzuy?from-embed=&file=/src/App.tsx). Thanks to vydimitrov for the [react countdown circle timer](https://www.npmjs.com/package/react-countdown-circle-timer).
 
 ## Credits:
 
